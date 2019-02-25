@@ -2,8 +2,5 @@
 
 ## A component Scroll Indicator or 'Progress Bar'
 
-### Using HTML with Pug.js
-### Css
-### JS  with Vanilla  ( ͡° ͜ʖ ͡°) 
 
-![](https://imgur.com/a/JKVNMPm)
+![](https://imgur.com/NuST9Z5.gif)
