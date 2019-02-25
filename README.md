@@ -1,4 +1,4 @@
-# Components__Scroll-Indicator-Progress-Bar-
+# Components__Scroll-Indicator-Progress-Bar
 
 ## A component Scroll Indicator or 'Progress Bar'
 
